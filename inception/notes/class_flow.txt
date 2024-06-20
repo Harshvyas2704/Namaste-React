@@ -1,0 +1,7 @@
+1. craete a simple html file and revised documents.get and create elements from JS to append heading into html.
+
+2. get react into the project
+
+3.via CDN react
+
+4. 
